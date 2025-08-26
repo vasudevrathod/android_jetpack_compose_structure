@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AndroidComposeStructure</string>
+    <string name="error_server_response_error" translatable="false">Server Response Error</string>
+    <string name="error_bad_request" translatable="false">Bad Request</string>
+    <string name="error_unauthorized" translatable="false">Unauthorized</string>
+    <string name="error_forbidden" translatable="false">Forbidden</string>
+    <string name="error_not_found" translatable="false">Not Found</string>
+    <string name="error_redirect_response_error" translatable="false">Redirect Response Error</string>
+    <string name="error_illegal_argument" translatable="false">Illegal Argument</string>
+    <string name="error_something_want_to_wrong" translatable="false">Something Want To Wrong</string>
+    <string name="error_no_internet_available" translatable="false">No Internet Available</string>
+    <string name="error_too_many_request" translatable="false">Too many requests</string>
+    <string name="file_not_found_exception" translatable="false">File not found exception</string>
+</resources>
